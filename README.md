@@ -1,2 +1,1 @@
-# tindog_skco
-Tinder for Dogs
+TinDog Starting Files
